@@ -54,4 +54,7 @@ o	F1-score: The harmonic mean of precision and recall. It provides a balance bet
 •	Recall: Measures the model's capability to correctly capture positive instances among all actual positives. A recall of approximately 0.9577 means that the SVM classifier is able to correctly identify about 95.77% of the actual malignant cases in the dataset.
 •	F1-score: Balances precision and recall, making it a good metric when classes are imbalanced. An F1-score of approximately 0.9645 suggests that the SVM classifier achieves a good balance between precision and recall, ensuring that it performs well on both correctly identifying positive instances and avoiding false positives.
 
+## Conclusion
+
+This project demonstrates the potential of machine learning techniques in aiding medical professionals by providing an additional tool for accurate prediction. However, further validation and testing are necessary before deploying such models in clinical settings.
 
